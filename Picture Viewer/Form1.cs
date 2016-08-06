@@ -56,6 +56,7 @@ namespace Picture_Viewer
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
+            // Test comment
             // If the user selects the Stretch check box,  
             // change the PictureBox's 
             // SizeMode property to "Stretch". If the user clears 
